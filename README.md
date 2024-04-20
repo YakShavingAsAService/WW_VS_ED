@@ -8,7 +8,7 @@ The CSVs used in this script were downloaded from Washington State's Department 
 This Python3 script uses the pandas and mathplotlib modules. Any recent version of Python3 will work.
 
 ## Code output
-The code produces a plot that looks like this: ![image of a scatter + bar plot](ww_vs_ed.png "Image of program output"))    
+The code produces a plot that looks like this: ![image of a scatter + bar plot](ww_vs_ed.png "Image of program output")
 
 ## License
 This code is licensed under the MIT license.
